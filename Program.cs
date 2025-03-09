@@ -1,10 +1,13 @@
 using BlazorMoviewReview.Components;
+using BlazorMoviewReview.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddScoped<IMovieReviewService, MovieReviewService>();
 
 var app = builder.Build();
 
