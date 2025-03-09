@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/madhushaprasad/Downloads/Self learning/CSharpProject/BlazorMoviewReview/obj/Debug/net8.0/scopedcss/projectbundle/BlazorMoviewReview.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorMoviewReview.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/madhushaprasad/Downloads/Self learning/CSharpProject/BlazorMoviewReview/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/madhushaprasad/Downloads/Self learning/CSharpProject/BlazorMoviewReview/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/madhushaprasad/Downloads/Self learning/CSharpProject/BlazorMoviewReview/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/madhushaprasad/Downloads/Self learning/CSharpProject/BlazorMoviewReview/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorMoviewReview.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorMoviewReview.props",
+      "PackagePath": "build\\BlazorMoviewReview.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorMoviewReview.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMoviewReview.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorMoviewReview.props",
+      "PackagePath": "buildTransitive\\BlazorMoviewReview.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
